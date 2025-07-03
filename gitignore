@@ -1,0 +1,15 @@
+
+# Ignora file temporanei o di backup
+*.bak
+*.tmp
+*.swp
+*~
+.DS_Store
+
+# Log e file CSV temporanei
+/tmp/
+*.log
+*.csv
+
+# Output ZIP
+*.zip
