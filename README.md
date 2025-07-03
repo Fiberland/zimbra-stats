@@ -31,7 +31,7 @@ Questo file, che spiega in dettaglio il funzionamento e la configurazione del to
 File per escludere file temporanei e di output durante il versionamento con Git.
 
 ### 9. **LICENSE**
-Licenza GPLv3 del progetto, personalizzata per Samuele "Sem" Bosco.
+Licenza GPLv3 del progetto.
 
 ## Requisiti
 
